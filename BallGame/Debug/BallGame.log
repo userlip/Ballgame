@@ -1,0 +1,60 @@
+﻿  Ball.cpp
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Draw.h(118,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(6,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(8,13): warning C4244: "=": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(9,9): warning C4244: "=": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(11,18): warning C4244: "=": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(12,13): warning C4305: "=": Verkürzung von "double" in "GLfloat"
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(34,14): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(35,34): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(39,18): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(40,34): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(51,11): warning C4244: "=": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(56,7): warning C4244: "=": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(61,11): warning C4244: "=": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(66,10): warning C4244: "=": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Ball.cpp(76,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Draw.cpp
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Draw.h(118,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  main.cpp
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Draw.h(118,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\main.cpp(138,15): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\main.cpp(150,27): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  Point.cpp
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Draw.h(118,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  Text.cpp
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Draw.h(118,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  Word.cpp
+  WordsManager.cpp
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\Draw.h(118,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\WordsManager.cpp(22,13): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\WordsManager.cpp(28,42): warning C4244: "Argument": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Marin\Desktop\Computergrafik\BallGame\BallGame\WordsManager.cpp(28,31): warning C4244: "Argument": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+  Code wird generiert...
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+glew32s.lib(glew.obj) : warning LNK4099: PDB "vc120.pdb" wurde nicht mit "glew32s.lib(glew.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\vc120.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(autofit.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype252_D.lib(autofit.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(bdf.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(bdf.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(cff.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(cff.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(ftbase.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(ftbase.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(ftbitmap.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype252_D.lib(ftbitmap.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(ftdebug.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(ftdebug.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(ftgzip.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(ftgzip.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(ftinit.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(ftinit.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(ftlzw.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(ftlzw.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(ftsystem.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(ftsystem.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(smooth.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(smooth.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(pcf.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(pcf.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(pfr.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype252_D.lib(pfr.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(psaux.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(psaux.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(pshinter.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(pshinter.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(psmodule.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(psmodule.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(raster.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(raster.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(sfnt.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(sfnt.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(truetype.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(truetype.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(type1.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype252_D.lib(type1.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(type1cid.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(type1cid.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(type42.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(type42.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype252_D.lib(winfnt.obj) : warning LNK4099: PDB "freetype.pdb" wurde nicht mit "freetype252_D.lib(winfnt.obj)" oder an "C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\freetype.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  BallGame.vcxproj -> C:\Users\Marin\Desktop\Computergrafik\BallGame\Debug\BallGame.exe
